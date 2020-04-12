@@ -1,7 +1,7 @@
 # Webinars!
 In questo repository trovate i sorgenti di tutti i nostri webinar.
 
-- [[Webinar 01]: Il monitoraggio dei siti web in chiave devops](webinars/tree/master/webinar01)
+- [[Webinar 01]: Il monitoraggio dei siti web in chiave devops](https://github.com/THEI-it/webinars/blob/master/webinar01/README.MD)
 
 ...
 
