@@ -27,6 +27,10 @@ Poller per l'estrapolazione dei dati da un sito esterno.
 Eseguire `docker-compose up -d` per avviare lo stack.
 
 Accedere al fronted web di Prometheus tramite browser a http://localhost:9090
+
 Accedere al fronted web di Blackbox_exporter tramite browser a http://localhost:9115
+
+Accedere al fronted web di Grafana tramite browser a http://localhost:3000 (username: admin - password: secret)
+
 
 Per ulteriori informazioni non esitate a contattarci a info@thei.it 
